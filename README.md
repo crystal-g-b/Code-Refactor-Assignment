@@ -38,3 +38,5 @@ Please see the link below for the finished product.
 
 * [Code Refractor for Horiseon](https://crystal-g-b.github.io/Code-Refactor-Assignment/)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
