@@ -32,7 +32,7 @@ All these adjustments help to make the css file cleaner and easier to read.
 
 ### This is what the webpage should look like
 
-![Refactor-webpage](./Assets/images/01-HTML-Git-CSS_02-Homework_Assets_01-html-css-git-homework-demo)
+![Refactor-webpage](/Assets/images/01-HTML-Git-CSS_02-Homework_Assets_01-html-css-git-homework-demo.png)
 
 Please see the link below for the finished product.
 
